@@ -1131,3 +1131,4 @@ if __name__ == "__main__":
     # Important: ne rien print() ici.
     # MCP utilise stdout pour le protocole.
     mcp.run()
+
